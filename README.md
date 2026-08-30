@@ -46,5 +46,5 @@
 
 ## 📁 Files
 
-- `cosmetic_insight_dashboard.gsheet` — 🇮🇩 Google Sheets sumber data / 🇬🇧 Google Sheets data source
-- Link Looker Studio dashboard — *(tambahkan di sini / add here)*
+- `cosmetics_sales_data` — 🇮🇩 Google Sheets sumber data / 🇬🇧 Google Sheets data source
+- Link Looker Studio dashboard - https://datastudio.google.com/reporting/a44657cb-f19c-470d-97b7-f46d9a350a33, https://datastudio.google.com/reporting/3205b24e-b9a8-4b5e-87be-82063aea6b00, https://datastudio.google.com/reporting/f159acf9-c772-475b-95e7-d100720863c2
