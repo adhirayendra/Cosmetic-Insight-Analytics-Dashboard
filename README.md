@@ -48,7 +48,3 @@
 
 - `cosmetic_insight_dashboard.gsheet` — 🇮🇩 Google Sheets sumber data / 🇬🇧 Google Sheets data source
 - Link Looker Studio dashboard — *(tambahkan di sini / add here)*
-
----
-🇮🇩 *Dashboard ini dibuat untuk keperluan portfolio analisis data penjualan produk kosmetik.*
-🇬🇧 *This dashboard was built as a portfolio project for cosmetic sales data analysis.*
