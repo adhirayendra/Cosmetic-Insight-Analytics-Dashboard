@@ -8,9 +8,9 @@
 
 ## 📊 Overview
 
-**🇮🇩** Dashboard ini terdiri dari 3 halaman analisis yang saling melengkapi — overview umum, insight per sales person, dan insight per negara — untuk membantu tim bisnis memantau revenue, distribusi penjualan, dan performa individu/tim secara komprehensif.
+**🇮🇩** Dashboard ini terdiri dari 3 halaman analisis yang saling melengkapi - overview umum, insight per sales person, dan insight per negara - untuk membantu tim bisnis memantau revenue, distribusi penjualan, dan performa individu/tim secara komprehensif.
 
-**🇬🇧** This dashboard consists of 3 complementary analysis pages — general overview, sales person insight, and country insight — helping business teams monitor revenue, sales distribution, and individual/team performance comprehensively.
+**🇬🇧** This dashboard consists of 3 complementary analysis pages - general overview, sales person insight, and country insight - helping business teams monitor revenue, sales distribution, and individual/team performance comprehensively.
 
 ## 📄 Halaman / Pages
 
@@ -46,5 +46,5 @@
 
 ## 📁 Files
 
-- `cosmetics_sales_data` — 🇮🇩 Google Sheets sumber data / 🇬🇧 Google Sheets data source
+- `cosmetics_sales_data` - 🇮🇩 Google Sheets sumber data / 🇬🇧 Google Sheets data source
 - Link Looker Studio dashboard - https://datastudio.google.com/reporting/a44657cb-f19c-470d-97b7-f46d9a350a33, https://datastudio.google.com/reporting/3205b24e-b9a8-4b5e-87be-82063aea6b00, https://datastudio.google.com/reporting/f159acf9-c772-475b-95e7-d100720863c2
