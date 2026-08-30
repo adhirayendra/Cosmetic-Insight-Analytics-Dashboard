@@ -4,7 +4,7 @@
 
 🇬🇧 An interactive dashboard built with Looker Studio (Google Data Studio) to analyze cosmetic product sales performance across countries, products, and sales persons.
 
-![Cosmetic Insight Analytics Dashboard](cCosmetic_Insight_Analytics_Dashboard.png)
+![Cosmetic Insight Analytics Dashboard](Cosmetic_Insight_Analytics_Dashboard.png)
 ![Salesperson Cosmetic Insight Analytics Dashboard](Salesperson_Cosmetic_Insight_Analytics_Dashboard.png)
 ![Country Cosmetic Insight Analytics Dashboard](Country_Cosmetic_Insight_Analytics_Dashboard.png)
 
